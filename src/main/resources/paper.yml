@@ -1,0 +1,6 @@
+name: PaperPlugin
+version: 1.0.0
+main: dev.cuteecactus.App
+description: A paper 1.21.11 plugin template
+author: CuteeCactus
+api-version: '1.21.11'
